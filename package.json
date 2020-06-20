@@ -1,0 +1,25 @@
+{
+  "name": "NLW_Starter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasgeremias1/NLW_Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasgeremias1/NLW_Starter/issues"
+  },
+  "homepage": "https://github.com/lucasgeremias1/NLW_Starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1"
+  }
+}
